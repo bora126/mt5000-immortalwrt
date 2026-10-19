@@ -1,6 +1,6 @@
 ## 💖 Acknowledgements
 
-特别感谢以下开源项目及作者Kitsune2077的贡献,项目fork from Kitsune2077/mt5000-immortalwrt。
+特别感谢以下开源项目及作者Kitsune2077的贡献，项目fork from Kitsune2077/mt5000-immortalwrt。
 
 - mt5000-immortalwrt(https://github.com/Kitsune2077/mt5000-immortalwrt
 ) by Kitsune2077(https://github.com/Kitsune2077) - 提供了All Codes。
